@@ -59,8 +59,8 @@
     <label for="hf">Квартира:</label>
     <input type="text" id="hf" required> 
     <br>
- </form>
- <label>Время доставки:</label>
- <input type="time" min="10:00" max="23:00" 
+    <label>Время доставки:</label>
+    <input type="time" min="10:00" max="23:00">
+ </form> 
 </body>
 </html>
