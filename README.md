@@ -19,5 +19,7 @@
     <br>
     <button type="submit" disabled>Зарегистрироваться</button>
   </form>
+  <br>
+  <h2>Меню</h2>
 </body>
 </html>
