@@ -23,7 +23,10 @@
   <h2>Меню</h2>
   <select multiple>
     <optgroup label="Пицца">
-      <option>value="Маргарита"</option>
+      <option>Маргарита 650руб</option>
+      <option>Четыре сыра 650руб</option>
+      <option>Пепперони 700руб</option>
+      <option>Ветчина грибы 650руб</option>
     </optgroup>
   </select>
 </body>
