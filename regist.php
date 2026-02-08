@@ -1,13 +1,11 @@
 <?php
-// regist.php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $name = isset($_POST['name']) ? trim($_POST['name']) : '';
 
-    // Тут можно сохранить в БД или файл
-    // file_put_contents('registrations.txt', $name . PHP_EOL, FILE_APPEND);
+    // При желании сохранить данные
 
-    // Перенаправление обратно на страницу регистрации или на другую страницу
-    header('Location: /registration_success.html'); // если есть страница благодарности
+    // Редирект на страницу благодарности/успеха
+    header('Location: https://bstepan2255-lgtm.github.io/hd/');
     exit;
 }
 ?>
