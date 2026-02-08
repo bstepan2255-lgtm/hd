@@ -7,7 +7,7 @@
 
   <p>Зарегистрируйтесь на нашем сайте</p>
 
-  <form method="POST" action="https://bstepan2255-lgtm.github.io/restaurant-site/">
+  <form method="POST">
     <label for="name">Имя:</label>
     <input type="text" id="name" name="name" required>
     <br>
