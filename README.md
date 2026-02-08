@@ -8,6 +8,7 @@
     <label for="name">Имя:</label>
     <input type="text" id="name" required>
   </form>
+  <br>
   <button>Pfht</button>
 </body>
 </html>
