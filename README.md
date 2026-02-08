@@ -9,7 +9,7 @@
     <input type="text" id="name" name="name" required>
     <br>
     <br>
-    <button type="button">Зарегистрироваться</button>
+    <button type="button" disabled>Зарегистрироваться</button>
   </form>
 </body>
 </html>
