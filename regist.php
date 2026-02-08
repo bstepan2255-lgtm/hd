@@ -17,3 +17,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['name'])) {
     <a href="index.html">Вернуться на главную</a>
 </body>
 </html>
+<?php
+} else {
+    // Если форма не была отправлена правильно
+    header("Location: index.html");
+    exit();
+}
+?>
