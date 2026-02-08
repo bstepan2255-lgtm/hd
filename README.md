@@ -2,7 +2,7 @@
 <body>
   <h1>Приветствуем Вас в нашем ресторане</h1>
   <p>Мы на картах</p>
-  <iframe scr="https://www.google.com/maps/@55.8071808,38.4806847,14z?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D" allowfullscreen sandbox></iframe>
+  <iframe src="https://www.google.com/maps/@55.8071808,38.4806847,14z?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D" allowfullscreen sandbox></iframe>
 
   <h3>Зарегистрируйтесь на нашем сайте</h3>
 
