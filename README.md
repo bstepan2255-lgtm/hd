@@ -1,6 +1,7 @@
 <html lang="ru">
 <body>
   <h1>Приветствуем Вас в нашем ресторане</h1>
+  <iframe scr="https://www.google.com/maps/@55.8071808,38.4806847,14z?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D" sandbox>Мы на картах</iframe>
 
   <p>Зарегистрируйтесь на нашем сайте</p>
 
@@ -44,6 +45,7 @@
         </select>
   <div style="margin-top: 10px;">
             <button onclick="calculateTotal()">Подсчитать сумму</button>
+  <h2>Адрес доставки</h2>
   
 </body>
 </html>
