@@ -7,6 +7,7 @@
   <form>
     <label for="name">Имя:</label>
     <input type="text" id="name" required>
+    <br>
     <button tupe="submit" disabled>Зарегистрироваться</button>
   </form>
 </body>
