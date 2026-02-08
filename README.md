@@ -14,7 +14,7 @@
     <label for="phone">Номер телефона:</label>
     <input type="number" id="phone" required>
     <br>
-    <label for="pas">Номер телефона:</label>
+    <label for="pas">Пароль:</label>
     <input type="password" id="pas" required> 
     <br>
     <button type="submit" disabled>Зарегистрироваться</button>
