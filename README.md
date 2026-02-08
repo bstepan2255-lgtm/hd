@@ -46,6 +46,21 @@
   <div style="margin-top: 10px;">
             <button onclick="calculateTotal()">Подсчитать сумму</button>
   <h2>Адрес доставки</h2>
-  
+  <form  style="border:solid 3px">
+    <label for="geo">Город:</label>
+    <input type="text" id="geo" required>
+    <br>
+    <label for="fam">Улица:</label>
+    <input type="text" id="fam" required>
+    <br>
+    <label for="hg">Дом:</label>
+    <input type="text" id="hg" required>
+    <br>
+    <label for="hf">Квартира:</label>
+    <input type="text" id="hf" required> 
+    <br>
+ </form>
+ <label>Время доставки:</label>
+ <input type="time" min="10:00" max="23:00" 
 </body>
 </html>
