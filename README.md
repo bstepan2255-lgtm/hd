@@ -4,7 +4,7 @@
 
   <p>Зарегистрируйтесь на нашем сайте</p>
 
-  <form>
+  <form  style="border:solid 10px">
     <label for="name">Имя:</label>
     <input type="text" id="name" required>
     <br>
