@@ -63,5 +63,4 @@
     <label>Время доставки:</label>
     <input type="time" min="10:00" max="23:00">
  </form> 
-</body>
-</html>
+
