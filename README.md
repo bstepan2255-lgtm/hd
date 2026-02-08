@@ -1,7 +1,4 @@
 <html lang="ru">
-<head>
-  <meta charset="UTF-8">
-</head>
 <body>
   <h1>Приветствуем Вас в нашем ресторане</h1>
 
@@ -12,7 +9,7 @@
     <input type="text" id="name" name="name" required>
     <br>
     <br>
-    <button>Зарегистрироваться</button>
+    <button type="button">Зарегистрироваться</button>
   </form>
 </body>
 </html>
