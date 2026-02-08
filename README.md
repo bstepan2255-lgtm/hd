@@ -7,7 +7,7 @@
 
   <p>Зарегистрируйтесь на нашем сайте</p>
 
-  <form method="POST">
+  <form>
     <label for="name">Имя:</label>
     <input type="text" id="name" name="name" required>
     <br>
