@@ -11,6 +11,7 @@
     <label for="name">Имя:</label>
     <input type="text" id="name" name="name" required>
     <br>
+    <br>
     <button type="submit">Зарегистрироваться</button>
   </form>
 </body>
