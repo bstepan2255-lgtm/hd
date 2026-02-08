@@ -22,11 +22,23 @@
   <br>
   <h2>Меню</h2>
   <select multiple>
-    <optgroup label="Пицца">
+    <optgroup label="Пицца" multiple>
       <option>Маргарита 650руб</option>
       <option>Четыре сыра 650руб</option>
       <option>Пепперони 700руб</option>
       <option>Ветчина грибы 650руб</option>
+    </optgroup>
+    <optgroup label="Бургеры" multiple>
+      <option>Нью-Йорк 600руб</option>
+      <option>Чизбургер 450руб</option>
+      <option>Двойной чизбургер 550руб</option>
+      <option>Макбургер 650руб</option>
+    </optgroup>
+    <optgroup label="Напитки" multiple>
+      <option>Мохито 500мл 400руб</option>
+      <option>Мохито клубничный 500мл 450руб</option>
+      <option>Кока Кола 500мл 450руб</option>
+      <option>Дюшес 500мл 400руб</option>
     </optgroup>
   </select>
 </body>
