@@ -12,7 +12,7 @@
     <input type="text" id="name" name="name" required>
     <br>
     <br>
-    <button type="submit">Зарегистрироваться</button>
+    <button>Зарегистрироваться</button>
   </form>
 </body>
 </html>
