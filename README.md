@@ -21,5 +21,10 @@
   </form>
   <br>
   <h2>Меню</h2>
+  <select multiple>
+    <optgroup label="Пицца">
+      <option>value="Маргарита"</option>
+    </optgroup>
+  </select>
 </body>
 </html>
